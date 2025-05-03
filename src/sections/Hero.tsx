@@ -77,7 +77,7 @@ export const HeroSection = () => {
             <div className="bg-green-500 size-2.5 rounded-full relative">
               <div className="bg-green-500 absolute inset-0 rounded-full animate-ping-large"></div>
             </div>
-            <div className="text-sm font-medium">Available For Hire</div>
+            <div className="text-sm font-medium">Available For Hire</div> 
           </div>
         </div>
 
@@ -100,6 +100,7 @@ export const HeroSection = () => {
 
           <button className="inline-flex items-center gap-2 border border-white bg-white text-gray-900 h-12 px-6 rounded-xl">
             <span>👋</span>
+            {/* fiiro gaar */}
             <span className="font-semibold">Lets Connected</span>
           </button>
         </div>
